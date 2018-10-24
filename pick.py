@@ -1,4 +1,3 @@
-#!/usr/local/bin/python3
 #Picking numbers for the lottery
 
 import random
